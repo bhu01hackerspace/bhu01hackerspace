@@ -55,10 +55,12 @@ Pilar Descrição
 
 <div align="center">
 
-Sistema Aplicação no Hackerspace
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> Servidores, estações de desenvolvimento estáveis
+
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white"> Ferramentas de segurança e pentest
+
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> Análise forense e testes de invasão
+
 <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white"> Desenvolvimento mobile e automação
 
 </div>
@@ -68,9 +70,14 @@ Sistema Aplicação no Hackerspace
 📚 Projetos da Comunidade
 
 Projeto Descrição Status
-📖 Library-bhu01hackerspace Biblioteca colaborativa de ebooks técnicos ✅ Ativo
+
+📖 Library-bhu01hackerspace Biblioteca colaborativa de ebooks técnicos
+✅ Ativo
+
 ⚡ Termux Power Setup Script de configuração automatizada para Termux 🚀 Em desenvolvimento
+
 🆕 Ferramentas de Automação Scripts e utilities open source 📝 Planejado
+
 🆕 Workshops e Tutoriais Material educacional da comunidade 📝 Planejado
 
 ---
@@ -176,6 +183,7 @@ Sinta-se à vontade para explorar nossos repositórios, abrir issues e enviar pu
 <div align="center">
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=)]()  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/CbFZfTnt49V4GrEbIeWWly)](https://chat.whatsapp.com/CbFZfTnt49V4GrEbIeWWly)
 
 Mais canais em breve
 
