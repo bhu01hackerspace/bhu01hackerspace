@@ -110,35 +110,35 @@ Projeto Descrição Status
 
 💻 Linguagens
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 🖥️ Sistemas Operacionais
 
-https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
-https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 🔧 Ferramentas e Versionamento
 
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
-https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white
-https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 🔐 Ferramentas de Segurança (em estudo)
 
-https://img.shields.io/badge/Nmap-0E6B8B?style=for-the-badge&logo=nmap&logoColor=white
-https://img.shields.io/badge/Metasploit-2C2D72?style=for-the-badge&logo=metasploit&logoColor=white
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
-https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white
+![Nmap](https://img.shields.io/badge/Nmap-0E6B8B?style=for-the-badge&logo=nmap&logoColor=white)
+![MetaSploit](https://img.shields.io/badge/Metasploit-2C2D72?style=for-the-badge&logo=metasploit&logoColor=white)
+![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![BurpSuit](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
 
@@ -175,7 +175,7 @@ Sinta-se à vontade para explorar nossos repositórios, abrir issues e enviar pu
 
 <div align="center">
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Mais canais em breve
 
@@ -198,11 +198,10 @@ Mais canais em breve
 
 🏴‍☠️ "Hack the mind, build the future. Conhecimento livre, comunidade forte."
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
 ⭐ Conhecimento compartilhado é conhecimento multiplicado. Junte-se a nós! ⭐
 
 </div>
-```
